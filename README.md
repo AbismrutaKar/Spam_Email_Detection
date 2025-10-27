@@ -151,11 +151,4 @@ The dataset is cleaned, balanced (via downsampling), and tokenized before traini
 
 ---
 
-## 🏁 License
-
-This project is licensed under the **MIT License** — you are free to use and modify it with proper attribution.
-
----
-
-> “Debugging isn’t about fixing mistakes — it’s about *understanding* why the system behaves the way it does.”
 
